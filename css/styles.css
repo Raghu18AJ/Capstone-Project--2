@@ -80,6 +80,12 @@ hr{
     margin: auto;
 }
 
+.initial-message{
+    width: 40%;
+    margin: 16px auto 16px;
+    color: #11999E ;
+}
+
 
 .contact-message{
     width: 40%;
